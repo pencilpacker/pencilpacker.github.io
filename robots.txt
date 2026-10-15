@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pencil-packer.vercel.app/sitemap.xml
+Sitemap: https://pencilpacker.github.io/sitemap.xml
